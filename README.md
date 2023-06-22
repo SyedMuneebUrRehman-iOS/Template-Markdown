@@ -2,17 +2,17 @@
 
 | Items  | 
 | ------ | 
-| Headings(#headings)  | 
-| Horizontal Separators(#horizontal-separators)   |
-| Text Styles(#text-styles)    | 
-| Block quotes with nesting(#block-quotes-with-nesting)    |
-| Listing - Ordered(#listing)   | 
-| Listing - Unordered(#listing)   | 
-| Listing - Code(#code)   | 
-| Listing - Tables(#tables)   |
-| Listing - Links(#links)   | 
-| Listing - Images(#images)   | 
-| Listing - Emojies(#emojies)   | 
+| [Headings](#headings)  | 
+| [Horizontal Separators](#horizontal-separators)   |
+| [Text Styles](#text-styles)    | 
+| [Block quotes with nesting](#block-quotes-with-nesting)    |
+| [Listing - Ordered](#listing)   | 
+| [Listing - Unordered](#listing)   | 
+| [Code](#code)   | 
+| [Tables](#tables)   |
+| [Links](#links)   | 
+| [Images](#images)   | 
+| [Emojies](#emojies)   | 
 
 
 
